@@ -48,7 +48,8 @@ What are the main elements of ZK?
 
 What type of “moon math” does someone need to grok to intuit the engine beneath ZK?
 -   Joke about the “moon math” (silly photo or graphic) and how we’re going to grok our way through just enough to gain intuition as to what’s happening under the hood
-	-  Polynomials ([intro](https://youtu.be/Vm7H0VTlIco "https://youtu.be/Vm7H0VTlIco") Khan Academy
+	-  Polynomials 
+		- [Intro](https://youtu.be/Vm7H0VTlIco "https://youtu.be/Vm7H0VTlIco") Khan Academy
 		- Porters [explanation](https://youtu.be/-2qHqfqPeR8?t=874) benefits/application
 		- Section "Proving Knowledge of a Polynomial" [understandable write-up](https://arxiv.org/pdf/1906.07221.pdf?utm_source=pocket_saves)
 	-  Modulo arithmetic (section - [3.3.2 Modular Arithmetic](https://arxiv.org/pdf/1906.07221.pdf?utm_source=pocket_saves)) < rope example  
