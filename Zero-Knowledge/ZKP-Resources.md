@@ -37,6 +37,7 @@ This is a ZKP resource list of other ZKP resource lists - A list of lists!
 - [ZK Starter Pack List](https://ethresear.ch/t/zero-knowledge-proofs-starter-pack/4519)
 - [ZK Awesome List](https://github.com/matter-labs/awesome-zero-knowledge-proofs) (ZKsync)
 - [ZK Awesome List](https://github.com/ventali/awesome-zk) (Ventali)
+- a16z [Zero Knowledge Canon](https://a16zcrypto.com/zero-knowledge-canon/), part 1 & 2
 - [Awesome list](https://github.com/0xJuancito/awesome-zksync) about ZKsync
 - [Learning ZKPs: Beginner Resources](https://community.zeroknowledge.fm/t/learning-zkps-beginner-resources/302/1) (ZK podcast community thread)
 	- [Top Theoretical](https://www.youtube.com/playlist?list=PLGkwtcB-DfpzST-medFVvrKhinZisfluC) - Foundations of Probabilistic Proofs (Fall 2020) - Alessandro Chiesa
