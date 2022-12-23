@@ -20,7 +20,9 @@ Blogs, videos, podcasts, etc. that introduce the idea of ZKPs
 - (Video) [Introduction to Zero Knowledge Proofs](https://youtu.be/BT88s7_VtC8) - Elena Nadolinski 
 
 #### SNARKs
-- 
+- [Vatalik](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6) - Zk-SNARKs: Under the Hood
+- [a16z](https://a16zcrypto.com/measuring-snark-performance-frontends-backends-and-the-future/?utm_source=pocket_reader) - Measuring SNARK performance: Frontends, backends, and the future
+- [Dark Forest](https://blog.zkga.me/intro-to-zksnarks?utm_source=pocket_reader) - Zero-Knowledge Proofs for Engineers: Introduction (zkSNARKs focused)
 
 #### STARKs
 - (Paper) [Eli Ben-Sasson](https://eprint.iacr.org/2018/046.pdf) -  Scalable, transparent, and post-quantum secure computational integrity
