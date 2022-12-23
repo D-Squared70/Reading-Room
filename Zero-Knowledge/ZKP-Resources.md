@@ -19,6 +19,19 @@ Blogs, videos, podcasts, etc. that introduce the idea of ZKPs
 - (Blog) Not Boring: [Aleo can you keep a secret](https://www.notboring.co/p/aleo-can-you-keep-a-secret)
 - (Video) [Introduction to Zero Knowledge Proofs](https://youtu.be/BT88s7_VtC8) - Elena Nadolinski 
 
+#### SNARKs
+- 
+
+#### STARKs
+- (Paper) [Eli Ben-Sasson](https://eprint.iacr.org/2018/046.pdf) -  Scalable, transparent, and post-quantum secure computational integrity
+- (Blog Series) [STARKWare Team](https://medium.com/starkware/tagged/stark-math) - STARK Math
+- (Blog) [Alan Szepieniec](https://aszepieniec.github.io/stark-anatomy/) - Anatomy of a STARK
+- (Blog) Vatalik STARK Series - [P1](https://vitalik.ca/general/2017/11/09/starks_part_1.html?utm_source=pocket_reader), [P2](https://vitalik.ca/general/2017/11/22/starks_part_2.html), [P3](https://vitalik.ca/general/2018/07/21/starks_part_3.html)
+- (Blog) [Remco Bloemen](https://hackmd.io/@_33nsoRFQwGYh2T1-T9lqQ/rJHYnQ3Z4) - Introduction to zkSTARKs
+- (Blog) [Eli Ben-Sasson](https://nakamoto.com/cambrian-explosion-of-crypto-proofs/) - A Cambrian Explosion of Crypto Proofs
+- (Video) [Quantstamp](https://youtu.be/kk1Oo42TVQk)  - zk-STARKS Explained
+- (Videos Series) [STARKWare](https://www.youtube.com/playlist?list=PLcIyXLwiPilUFGw7r2uyWerOkbx4GFMXq) - STARK @ Home
+- (Learning Tool) [Novi Financial](https://github.com/novifinancial/winterfell) - Winterfell
 
 #### Courses
 Formal and informal courses covering ZKP directly or related topics
@@ -37,8 +50,8 @@ This is a ZKP resource list of other ZKP resource lists - A list of lists!
 - [ZK Starter Pack List](https://ethresear.ch/t/zero-knowledge-proofs-starter-pack/4519)
 - [ZK Awesome List](https://github.com/matter-labs/awesome-zero-knowledge-proofs) (ZKsync)
 - [ZK Awesome List](https://github.com/ventali/awesome-zk) (Ventali)
-- a16z [Zero Knowledge Canon](https://a16zcrypto.com/zero-knowledge-canon/), part 1 & 2
 - [Awesome list](https://github.com/0xJuancito/awesome-zksync) about ZKsync
+- [Awesome list](https://github.com/gakonst/awesome-starknet) about StarkNet
 - [Learning ZKPs: Beginner Resources](https://community.zeroknowledge.fm/t/learning-zkps-beginner-resources/302/1) (ZK podcast community thread)
 	- [Top Theoretical](https://www.youtube.com/playlist?list=PLGkwtcB-DfpzST-medFVvrKhinZisfluC) - Foundations of Probabilistic Proofs (Fall 2020) - Alessandro Chiesa
 	- [Top Practical](https://www.youtube.com/watch?v=8WVW5DCVQe0&list=PLgKuh-lKre10OEVNLH3t0QX0rIK8kK3tu) - Efficient Zero-Knowledge Proofs: A Modular Approach  
@@ -67,4 +80,6 @@ Resources covering ZKP vulnerabilities, exploits, security best practices, etc.
 	- (Blog) [Reinventing Vulnerability Disclosure using Zero-knowledge Proofs](https://blog.trailofbits.com/2020/05/21/reinventing-vulnerability-disclosure-using-zero-knowledge-proofs/ "Reinventing Vulnerability Disclosure using Zero-knowledge Proofs") May 21, 2020
 	- (Documentation) Trail of Bits: [ZKDocs](https://www.zkdocs.com/docs/zkdocs/) 
 - (Documentation) Delendum: [Vulnerability Section](https://kb.delendum.xyz/zk-knowledge#vulnerabilities)
-	-  (Video) [Security of ZK Systems](https://youtu.be/SxI8uNBp05k) 
+	- (Video) [Security of ZK Systems](https://youtu.be/SxI8uNBp05k) 
+	- (Blog) [Kobi Gurkan](https://medium.com/qed-it/how-toxic-is-the-waste-in-a-zksnark-trusted-setup-9b250d59bdb4) - Creating fake zkSNARK proofs
+	- (Blog) [Electric Coin Co.](https://electriccoin.co/blog/zcash-counterfeiting-vulnerability-successfully-remediated/?utm_source=pocket_reader) - Zcash Counterfeiting Vulnerability Successfully Remediated
