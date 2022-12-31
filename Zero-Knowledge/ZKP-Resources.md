@@ -57,6 +57,7 @@ This is a ZKP resource list of other ZKP resource lists - A list of lists!
 - [Learning ZKPs: Beginner Resources](https://community.zeroknowledge.fm/t/learning-zkps-beginner-resources/302/1) (ZK podcast community thread)
 	- [Top Theoretical](https://www.youtube.com/playlist?list=PLGkwtcB-DfpzST-medFVvrKhinZisfluC) - Foundations of Probabilistic Proofs (Fall 2020) - Alessandro Chiesa
 	- [Top Practical](https://www.youtube.com/watch?v=8WVW5DCVQe0&list=PLgKuh-lKre10OEVNLH3t0QX0rIK8kK3tu) - Efficient Zero-Knowledge Proofs: A Modular Approach  
+- [Ingopedia Awesome ZKP List](https://github.com/ingonyama-zk/ingopedia)
                  
 
 #### Moon Math
