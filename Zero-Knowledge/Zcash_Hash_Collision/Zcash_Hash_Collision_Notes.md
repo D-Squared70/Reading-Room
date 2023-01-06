@@ -13,13 +13,13 @@ Sources:
 > For every 128-bit hash collision the attacker finds, they can ==effectively double their wealth by combining all of their Zcash into one double-spendable note and then double-spending it to themselves==. So even though the operations to find a collision aren’t cheap, the attack quickly pays off.
 
 [Source](https://www.linkedin.com/pulse/blockchain-double-spending-problem-harinder-seera/)
-![[Double_Spend.png]]
+![Double_Spend.png](Images/Double_Spend.png)
 
 ---
 ##### The Mistake
 
 Note/Coin (base object in Zcash) contains (Apk,v,ρ,r)
-![[Note_data.png]]
+![Note_data.png](Images/Note_data.png)
 - A*pk* - Address ==public key== - Published publicly enabling others to direct payments to the user (similar to inboxes via emails)
 - v - the corresponding ==amount== of the note (i.e. value)
 - ρ - is a ==secret value== that determines the coin’s serial number 
@@ -28,7 +28,7 @@ Note/Coin (base object in Zcash) contains (Apk,v,ρ,r)
 > 		*- we set ρ to be the nullifier of the spent note*
 - r - used (within CRH(sn‖r)) to compute the ==random number== of the note commitment (~I think~)
 
-![[The_Mistake.png]]
+![The_Mistake.png](Images/The_Mistake.png)
 
 ---
 ##### Security Properties from Commitment Schemes 
@@ -37,16 +37,16 @@ Note/Coin (base object in Zcash) contains (Apk,v,ρ,r)
 	- Dan Boneh does a great job in this course explaining the purpose and function of binding/hiding [within this lecture](https://youtu.be/H3GmsxRU1Kw?t=832). (highly recommended lecture)
 
 Below is a simple example of the binding and hiding properties through a [Bulletproof](https://youtu.be/ilGfKH-kFiQ) (kind of range proof) - [Image source](https://medium.com/coinmonks/zero-knowledge-proofs-um-what-a092f0ee9f28)
-![[Pasted image 20221227111729.png]]
+![Pasted image 20221227111729.png](Pasted image 20221227111729.png)
 
 Formal explanation from Dan's lecture above
-![[Dan_Boneh_Binding_Hiding.png]]
+![Dan_Boneh_Binding_Hiding.png](Images/Dan_Boneh_Binding_Hiding.png)
 
 ---
 ##### 128-bit hash collision (similar to[ MD5](https://en.wikipedia.org/wiki/MD5#Collision_vulnerabilities))
 
 [Source](https://www.geeksforgeeks.org/java-program-to-implement-hash-tables-chaining-with-doubly-linked-lists/)
-![[Hash_Collision.png]]
+![Hash_Collision.png](Images/Hash_Collision.png)
 The time it'll take depends on the computation the attacker has, but from [one reference](http://people.scs.carleton.ca/~paulv/papers/JoC97.pdf) within the blog post we can see... 
 
 >  To illustrate the use of ==parallel== collision search for practical cryptanalytic problems, designs were given for ==three $10 million== custom machines which could be built with current technology: one finds elliptic curve logarithms in GF(2^155) thereby defeating a proposed elliptic curve cryptosystem in expected time 32 days; the second finds ==MD5 collisions in expected time 21 days==;
