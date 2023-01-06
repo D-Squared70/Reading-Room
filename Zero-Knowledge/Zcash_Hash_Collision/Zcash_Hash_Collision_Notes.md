@@ -38,7 +38,7 @@ Note/Coin (base object in Zcash) contains (Apk,v,ρ,r)
 	- Dan Boneh does a great job in this course explaining the purpose and function of binding/hiding [within this lecture](https://youtu.be/H3GmsxRU1Kw?t=832). (highly recommended lecture)
 
 Below is a simple example of the binding and hiding properties through a [Bulletproof](https://youtu.be/ilGfKH-kFiQ) (kind of range proof) - [Image source](https://medium.com/coinmonks/zero-knowledge-proofs-um-what-a092f0ee9f28)
-![Pasted image 20221227111729.png](Images/Pasted image 20221227111729.png)
+![Pasted image 20221227111729.png](Images/Pasted_image_20221227111200.png)
 
 Formal explanation from Dan's lecture above
 ![Dan_Boneh_Binding_Hiding.png](Images/Dan_Boneh_Binding_Hiding.png)
