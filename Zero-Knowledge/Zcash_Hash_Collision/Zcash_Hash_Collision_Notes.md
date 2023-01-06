@@ -13,6 +13,7 @@ Sources:
 > For every 128-bit hash collision the attacker finds, they can ==effectively double their wealth by combining all of their Zcash into one double-spendable note and then double-spending it to themselves==. So even though the operations to find a collision aren’t cheap, the attack quickly pays off.
 
 [Source](https://www.linkedin.com/pulse/blockchain-double-spending-problem-harinder-seera/)
+
 ![Double_Spend.png](Images/Double_Spend.png)
 
 ---
