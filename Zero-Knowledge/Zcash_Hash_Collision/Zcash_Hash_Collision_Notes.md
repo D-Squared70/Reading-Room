@@ -1,4 +1,4 @@
-![[Zcash_Vuln.png]]
+![Zcash_Vuln.png](Images/Zcash_Vuln.png)
 Sources:
 - [Blog post](https://electriccoin.co/blog/fixing-zcash-vulns/?utm_source=pocket_reader) explaining the vuln and fix
 - [Github](https://github.com/zcash/zcash/issues/738) thread discussion 
