@@ -159,7 +159,8 @@ What is the difference between linear and non-linear?  [video](https://youtu.be/
 
 Head over to this video for an explanation for this Vuln. Long story short the method used to convert an interactive ZK scheme to a non-interactive scheme can lead to some serious exploits... It comes down to the implementation as always. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ffPI0B2l2dY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[Video discription here](https://youtu.be/ffPI0B2l2dY). 
+
 
 ---
 ### Bug 7 - [Trusted Setup Leak](https://github.com/0xPARC/zk-bug-tracker/tree/8ad138668270e0aa8dac3a3f8f5d3589d5e1281f#7-trusted-setup-leak)
