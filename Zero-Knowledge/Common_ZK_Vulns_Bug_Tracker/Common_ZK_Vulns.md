@@ -1,5 +1,4 @@
-
-![[Common_ZK_Vulns.png]]
+![Common_ZK_Vulns.png](Images/Common_ZK_Vulns.png)
 
 ---
 
