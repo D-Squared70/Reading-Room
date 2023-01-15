@@ -18,6 +18,7 @@ Blogs, videos, podcasts, etc. that introduce the idea of ZKPs
 - (Blog) [Navigating](https://medium.com/amber-group/navigating-zero-knowledge-e944b21af71c) ZK Roll-ups
 - (Blog) Not Boring: [Aleo can you keep a secret](https://www.notboring.co/p/aleo-can-you-keep-a-secret)
 - (Video) [Introduction to Zero Knowledge Proofs](https://youtu.be/BT88s7_VtC8) - Elena Nadolinski 
+- (Video) ["Rhapsody in Zero Knowledge: Proving Without Revealing" by Tony Arcieri](https://youtu.be/jKSz7W5dTgY) - An accelerated intro to the history of ZK and where we're at today (2021) 
 
 #### SNARKs
 - [Vitalik](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6) - Zk-SNARKs: Under the Hood
