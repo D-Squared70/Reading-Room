@@ -1,6 +1,6 @@
 ### Title: Exec Sum Writer
 
-### Description: Writes EROs based <report> {{REPORT}} </report> + <key_insights> {{KEY_INSIGHTS}} </key_insights>
+### Description: Writes executive summaries based <report> {{REPORT}} </report> + <key_insights> {{KEY_INSIGHTS}} </key_insights>
 
 ### System Prompt
 
